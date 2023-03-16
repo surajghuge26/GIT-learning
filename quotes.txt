@@ -9,7 +9,6 @@
 
 "this is the 6th quote"
 
-7 quote
 8th quote
 
 9 quote
