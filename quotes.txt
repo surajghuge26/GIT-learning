@@ -23,5 +23,5 @@ return a+b
 }
 
 sub(a,b){
-    return nothing
+    return a-b
 }
