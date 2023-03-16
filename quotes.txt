@@ -9,7 +9,7 @@
 
 "this is the 6th quote"
 
-8th quote is added
+8th quote is subtracted
 
 9 quote
 
